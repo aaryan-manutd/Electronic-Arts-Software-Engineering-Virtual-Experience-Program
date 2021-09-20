@@ -3,11 +3,9 @@ This repository contains all the submitted patch files of the various tasks assi
 ---
 ## I have worked on the following tasks during the internship
 #### 1. Python
-- Interface with a stock price data feed and set your system for analysis of data
 - `Python`
 
 #### 2. C++
-- Implement the perspective open source code in prepration for data visualization 
 - `C++`
 
 #### 3. Game Engine Technology
