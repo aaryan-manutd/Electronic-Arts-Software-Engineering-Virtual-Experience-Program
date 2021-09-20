@@ -1,7 +1,8 @@
 # Electronic-Arts-Software-Engineering-Virtual-Experience-Program
 This repository contains all the submitted patch files of the various tasks assigned by Electronic Arts Software Engineering Virtual Experience Program
+
 ---
-## I have worked on the following tasks during the internship
+## I have worked on the following programming languages and tasks during the virtual internship
 #### 1. Python
 - `Python`
 
